@@ -17,3 +17,9 @@ The benefits of practicing this problem by using Machine Learning techniques are
 This challenge will encourage you to apply your Machine Learning skills to build models that can anticipate the severity of any airplane accident
 This challenge will help you enhance your knowledge of classification actively. Classification is one of the basic building blocks of Machine Learning
 We challenge you to build a model that predicts how severe an airplane accident could be.
+
+
+
+## Accuracy
+<li>Accuracy achieved on the online test data is 84.8%. </li>
+<li>Maxiumum accuracy is 88.2% in the contest. </li>
